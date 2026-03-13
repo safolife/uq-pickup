@@ -1,9 +1,9 @@
-'use client'
+"use client";
 
-import React from 'react'
-import Link from 'next/link'
-import { motion } from 'framer-motion'
-import { FaTruck, FaShieldAlt, FaClock, FaStar } from 'react-icons/fa'
+import React from "react";
+import Link from "next/link";
+import { motion } from "framer-motion";
+import { FaTruck, FaShieldAlt, FaClock, FaStar } from "react-icons/fa";
 
 const Hero = () => {
   return (
@@ -27,34 +27,51 @@ const Hero = () => {
           >
             <div className="inline-flex items-center bg-yellow-500/10 text-yellow-600 px-4 py-2 rounded-full mb-6">
               <FaStar className="mr-2" />
-              <span className="font-semibold">#1 Pickup Rental in Umm Al Quwain</span>
+              <span className="font-semibold">
+                #1 Pickup Rental in Umm Al Quwain
+              </span>
             </div>
-            
+
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-navy-900 mb-6">
-              Reliable{' '}
+              Reliable{" "}
               <span className="text-yellow-500 relative">
                 Pickup
-                <svg className="absolute -bottom-2 left-0 w-full" viewBox="0 0 100 10" preserveAspectRatio="none">
-                  <path d="M0,5 Q25,0 50,5 T100,5" stroke="currentColor" strokeWidth="2" fill="none" className="text-yellow-500"/>
+                <svg
+                  className="absolute -bottom-2 left-0 w-full"
+                  viewBox="0 0 100 10"
+                  preserveAspectRatio="none"
+                >
+                  <path
+                    d="M0,5 Q25,0 50,5 T100,5"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    fill="none"
+                    className="text-yellow-500"
+                  />
                 </svg>
-              </span>{' '}
+              </span>{" "}
               Rentals
             </h1>
-            
+
             <p className="text-xl text-gray-600 mb-8 max-w-lg">
-              Your trusted partner for all pickup rental needs in Umm Al Quwain. 
-              Affordable rates, well-maintained vehicles, and 24/7 support.
+              Reliable Pickup Rental Services in Umm Al Quwain From 1 Ton to 10
+              Ton Pickup Trucks Available for all your transport needs. Fast
+              service, powerful vehicles, and dependable support you can trust.
             </p>
-            
+
             {/* CTA Buttons */}
             <div className="flex flex-wrap gap-4">
               <Link href="/booking" className="btn-primary group">
                 Rent Now
-                <span className="ml-2 group-hover:translate-x-1 inline-block transition-transform">→</span>
+                <span className="ml-2 group-hover:translate-x-1 inline-block transition-transform">
+                  →
+                </span>
               </Link>
               <Link href="/fleet" className="btn-secondary group">
                 View Fleet
-                <span className="ml-2 group-hover:translate-x-1 inline-block transition-transform">→</span>
+                <span className="ml-2 group-hover:translate-x-1 inline-block transition-transform">
+                  →
+                </span>
               </Link>
             </div>
 
@@ -157,7 +174,7 @@ const Hero = () => {
         </div>
       </motion.div>
     </section>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
