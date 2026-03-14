@@ -114,7 +114,7 @@ const Hero = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-yellow-500 to-navy-900 rounded-3xl transform rotate-3 scale-105 opacity-20"></div>
               <img
-                src="/assets/fleet/5.jpeg"
+                src="/assets/fleet/6.jpeg"
                 alt="Pickup Truck"
                 className="rounded-3xl shadow-2xl relative z-10 w-full h-auto object-cover"
               />

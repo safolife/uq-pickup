@@ -97,7 +97,7 @@ const WhyChooseUs = () => {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="/assets/fleet/3.jpeg"
+                src="/assets/fleet/6.jpeg"
                 alt="Our Team"
                 width={800}
                 height={600}
