@@ -1,7 +1,7 @@
 export const VEHICLES = [
   {
     id: '1',
-    name: 'Toyota Hilux',
+    name: '3 Ton Pickup Truck',
     category: 'standard',
     price: 250,
     capacity: '1.5 tons',

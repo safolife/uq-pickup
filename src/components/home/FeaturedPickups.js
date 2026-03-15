@@ -23,7 +23,7 @@ const FeaturedPickups = () => {
   const vehicles = [
     {
       id: 1,
-      name: 'Toyota Hilux',
+      name: '3 Ton Pickup Truck',
       image: '/assets/fleet/1.jpeg',
       price: 250,
       capacity: '3 tons',
@@ -183,13 +183,6 @@ const FeaturedPickups = () => {
                     </div>
                     <p className="text-xs text-gray-500">Capacity</p>
                     <p className="font-semibold text-navy-900">{vehicle.capacity}</p>
-                  </div>
-                  <div className="text-center">
-                    <div className="bg-yellow-100 w-10 h-10 rounded-full flex items-center justify-center mx-auto mb-2">
-                      <FaUsers className="text-xl text-yellow-600" />
-                    </div>
-                    <p className="text-xs text-gray-500">Seats</p>
-                    <p className="font-semibold text-navy-900">{vehicle.seats}</p>
                   </div>
                   <div className="text-center">
                     <div className="bg-yellow-100 w-10 h-10 rounded-full flex items-center justify-center mx-auto mb-2">

@@ -260,13 +260,6 @@ export default function FleetPage() {
                       </div>
                       <div className="text-center">
                         <div className="bg-yellow-100 w-10 h-10 rounded-full flex items-center justify-center mx-auto mb-2">
-                          <FaUsers className="text-xl text-yellow-600" />
-                        </div>
-                        <p className="text-xs text-gray-500">Seats</p>
-                        <p className="font-semibold text-navy-900">{vehicle.seats}</p>
-                      </div>
-                      <div className="text-center">
-                        <div className="bg-yellow-100 w-10 h-10 rounded-full flex items-center justify-center mx-auto mb-2">
                           <FaGasPump className="text-xl text-yellow-600" />
                         </div>
                         <p className="text-xs text-gray-500">Fuel</p>
