@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Ummal Quwain Rental Pickup Service | Best Pickup Truck Rental in UAQ',
   description: 'Professional pickup truck rental services in Umm Al Quwain. Affordable rates for commercial & personal use. Daily, weekly & monthly rentals available. 24/7 support in UAE.',
-  keywords: 'pickup rental Umm Al Quwain, truck rental UAQ, pickup for rent Umm Al Quwain, vehicle rental Umm Al Quwain, cheap pickup rental UAE, Nissan pickup rental UAQ, Toyota Hilux rental Umm Al Quwain, commercial vehicle rental UAQ, pickup truck hire Umm Al Quwain, rent a pickup UAE, daily pickup rental Umm Al Quwain, monthly pickup rental UAQ, construction vehicle rental Umm Al Quwain, delivery vehicle rental UAE, 4x4 pickup rental Umm Al Quwain',
+  keywords: 'ummal quwain rental pickup service, ummal quwain pickup, pickup rental Umm Al Quwain, truck rental UAQ, pickup for rent Umm Al Quwain, vehicle rental Umm Al Quwain, cheap pickup rental UAE, Nissan pickup rental UAQ, Toyota Hilux rental Umm Al Quwain, commercial vehicle rental UAQ, pickup truck hire Umm Al Quwain, rent a pickup UAE, daily pickup rental Umm Al Quwain, monthly pickup rental UAQ, construction vehicle rental Umm Al Quwain, delivery vehicle rental UAE, 4x4 pickup rental Umm Al Quwain',
   openGraph: {
     title: 'Umm Al Quwain Pickup Truck Rental | Professional Vehicle Hire',
     description: 'Rent pickup trucks in Umm Al Quwain at competitive prices. Well-maintained fleet for all your transportation needs.',

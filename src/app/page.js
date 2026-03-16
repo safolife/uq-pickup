@@ -12,7 +12,7 @@ export default function Home() {
       <Head>
         <title>Umm Al Quwain Pickup Rental | Best Truck Rental in UAQ</title>
         <meta name="description" content="Rent pickup trucks in Umm Al Quwain for personal or commercial use. Toyota Hilux, Nissan Patrol and more. Daily, weekly and monthly rentals with insurance included." />
-        <meta name="keywords" content="pickup rental Umm Al Quwain, truck rental UAQ, rent pickup Umm Al Quwain, Hilux rental Umm Al Quwain, Nissan pickup rental UAQ, commercial vehicle rental Umm Al Quwain" />
+        <meta name="keywords" content="ummal quwain rental pickup service, ummal quwain pickup, pickup rental Umm Al Quwain, truck rental UAQ, rent pickup Umm Al Quwain, Hilux rental Umm Al Quwain, Nissan pickup rental UAQ, commercial vehicle rental Umm Al Quwain" />
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
