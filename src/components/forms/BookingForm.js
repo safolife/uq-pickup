@@ -77,7 +77,7 @@ Thank you for choosing Ummal Quwain Rental Pickup Service!
   }
 
   const vehicles = [
-    { id: '1', name: 'Toyota Hilux', price: 250 },
+    { id: '1', name: '3 Ton Pickup Truck', price: 250 },
     { id: '2', name: 'Nissan Navara', price: 230 },
     { id: '3', name: 'Ford Ranger', price: 280 },
     { id: '4', name: 'Mitsubishi L200', price: 200 },
