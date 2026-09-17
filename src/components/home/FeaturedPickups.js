@@ -39,7 +39,7 @@ const FeaturedPickups = () => {
     {
       id: 2,
       name: 'Cran Pickup Truck',
-      image: '/assets/fleet/2.jpeg',
+      image: '/assets/fleet/2-v2.jpeg',
       price: 230,
       capacity: 'Cran',
       seats: 5,
